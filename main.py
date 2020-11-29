@@ -3,7 +3,7 @@ from tqdm import tqdm
 from matplotlib import pyplot as plt
 from skimage import io, color
 
-import funcs2 as f2
+import funcs as f2
 
 if __name__ == '__main__':
 
